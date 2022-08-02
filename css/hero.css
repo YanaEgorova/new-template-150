@@ -133,11 +133,7 @@
     margin-left: auto;
     margin-right: auto;
 }
-.policy__img  {
-    display: block;
-    width: 100%;
-    border-radius: 5rem;
-}
+
 .policy__img-box {
     -webkit-box-shadow: 0rem 0rem 2rem 0rem rgba(0,0,0,0.3);
     -moz-box-shadow: 0rem 0rem 2rem 0rem rgba(0,0,0,0.3);
@@ -145,9 +141,12 @@
     border-radius: 5rem;
     position: relative;
     padding: 2rem;
-    max-width: 40rem;
+    width: 30rem;
     margin: 0 auto;
+    height: 20rem;
+    background-color: var(--third-brand-color);
 }
+
 .policy__icon-box {
     -webkit-box-shadow: 0rem 0rem 2rem 0rem rgba(210,138,238,0.54);
     -moz-box-shadow: 0rem 0rem 2rem 0rem rgba(210,138,238,0.54);
