@@ -186,7 +186,7 @@ body.error-active .error__overlay {
   display: inline-block;
   text-transform: uppercase;
   font-family: var(--title-font);
-  background-image: linear-gradient(to right bottom, #e5b3fb, #d398f4, #bf7ded, #a963e7, #9148e1);
+  background-image: linear-gradient(to right bottom, var(--fourth-brand-color), var(--third-brand-color));
   color: var(--sub-text-color);
   border-radius: 5rem;
   display: flex;
