@@ -13,6 +13,7 @@
 }
 .hero .title {
     margin-bottom: 1rem;
+    max-width: 50rem;
     color: var(--sub-text-color);
 }
 .hero .title span {
